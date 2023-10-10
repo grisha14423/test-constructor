@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f5f5;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  width: 10000px;
+  background-color: #f4f5f5;
+}
+
+.row {
+  background-color: white;
+}
+
+.upload-block {
+  background-color: white;
+  border: solid #f4f5f5;
+}
+
+.btn-block {
+  background-color: white;
+  border: solid #f4f5f5;
+  height: 500px;
+}
+
+.h4-info-area {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-group {
+  background-color: white;
+}
+
+.table-responsive {
+  background-color: white;
+}
+
+/* .navbar {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  justify-content: left;
+  margin-bottom: 10px;
+} */
+
+/* ROMA VERSION*/
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  height: 1000px;
+  background: #F4F5F5;
+}
+.upload-block,
+.btn-block,
+.btngroup {
+  background-color: white;
+  border-radius: 5%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.navbar {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  justify-content: left;
+  margin-bottom: 10px;
+}
+
+
+.card-header-name {
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+
+.card {
+  background-color: white; 
+}*/
+/* ROMA VERSION*/
+
+/* 
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* 
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.colored {
+  background-color: #f4f5f5;
+}
